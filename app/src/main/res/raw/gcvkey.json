@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hearsight-396207",
+  "private_key_id": "e6458e5f558369574d5794dcbb1298d569f41a14",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC8hxyxFMVRbVuS\nHFe8dYHCqSJI7eBVduOrZ2yZCCKwBOdBevm4mHR7zQ8VjpH6X4FVdMolfX2v2tS0\nKbtOcmW3Mezs3grsGwhybzhqKURyjfksw/vZZdr9olYzq/X9X2iGO+wLPSkkJInB\n1ImfNe5LZ3COokk967rKJTiP5VakFYKrubB74cxZCUt7yvW66cwHG2kLRxgLt4/+\ndinu02g5GebWyZlEywWagCHm8/GTdEbaAb4zdl5/pCykDrJfxKx+GGBzjInuSHdn\niOZcnpX2LQbdWuITXVIOnbuAlGZOFY4lmIA3HQN4BDJ6t/7N7RS3Z3UgdBPfLkRw\nraYm/ckzAgMBAAECggEAKHqcMvtiOI8R+8fBINJcJ6c4GM+WfNM3pAxjWWJRTFjp\nLHqSlsuJKzHGvNqtRkRuWSJn6u/MZk9Gn15cfMX8R/7cv6kXUEWnpSZzRvwQWcZZ\nC38TGsUPZakO+C5CdYIgR74i+vDJXhzIRUl0uS4TubX+iWmX70cnhpLCV8cmuLkU\nXULaoh61FZC/5DuQkbOT0rQh6MZwZevjYYJovTXc5xbnYN6hNEgVboEN/lesLq/z\ngefklA1F3PE5BEQWB5Vup5Cbpo+nXX2W/tn2oQKhGpUKYGpHhb7wMEZpBd5ube3k\nQV8s5JUWdgNkj3DSKg86yl8JruQjQkY5FVca8hWjOQKBgQD8z/Tbpznm2eouzxQM\nx0iZ/hbOL9Mt5/tQnamWvvoHBAeyHnSjzVbm/weyTg0s9ZNs4dxAhtMVMahDByDZ\nOHouo5WdZFJ9J8tXRKfEOBTyv+dhazMhLBBQBJ1ksUVE4pbzJW+iRH1rug3mlMur\n7yiKKzM2uK6xzg2GVzU6ViDvuwKBgQC+56dlt/f8j2E8ChSrkHeWi5tSNLpFqThF\ngHoC8W/XWit1SAS6LYpD8kloVxhVeGhnB6FdsULyqqXC48watUlXVJITjOpP7B8T\n/l4CVUV+jLZn79Zg1gJfiX6jH58/B/4GRQnxiWWHlcI33vLHvi+1aHeqUTcYLa6M\niDTgC9VI6QKBgQCXLmjX3dXDVjczzMPJrHafGBJdNL5NqndgSxg6PHRaM6/CdXH8\n7nN0abgZiZFZfHWv3BURRU7/UpWzl5SuMZbnQw3adD7b9ysjQbwtm/fy/o2IdUm7\nIZWTtF7G8zdgLTxlpNJwMBLsk/NyGzL822Tb01+p7qERVQ5Dcu0yuISztwKBgQCh\nre/H5hbQf14KSz9WTfP6PCI/bQiVFsvhkP3EoFXoPSWxHl1ikE8ZXIlvJNQnDuLc\n30l64DWi74OTmvmxZPfIToeopx+KsJ9hf3x+3VkN5H5XaHhXauh3oSrvXEiySUKK\nbM4PEh46xkrGprtXD2u4Z9FxHXdbstSxkGm3lk38gQKBgQCIg4voeo8+hiajAwiX\ncBWg1TI2qripGC2z20Fv8d032gNELa0W1SFrNJRxomLdmOPnImxkcfS1zGKmi8rJ\nH8f+MM3cHvG3Vfn5VzTksB0X6XESoIiXIBrA1smAjWXHfcLsyuyKKxO7NwYmHJpN\ndAWb7rcuiX4l1N4gcrSCVbsFdw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hearsightservice@hearsight-396207.iam.gserviceaccount.com",
+  "client_id": "104022905670531934770",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hearsightservice%40hearsight-396207.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

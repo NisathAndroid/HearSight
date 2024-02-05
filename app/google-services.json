@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839256359848",
+    "project_id": "hearsight-5ae08",
+    "storage_bucket": "hearsight-5ae08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839256359848:android:5fecc5c6fb2119cdbb939d",
+        "android_client_info": {
+          "package_name": "com.example.hearsight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839256359848-l08fkpsf667ge9ef6ctfug36c76tukj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwgRKtHaTqPPWFnyq_ZdXGnCDRctbhIE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839256359848-l08fkpsf667ge9ef6ctfug36c76tukj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

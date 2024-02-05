@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HearSight</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="App_id">1066498199</string>
+<!--    <string name="App_Sign">f3e9b7d27423e7236a2c56f08795611580546f5f6a26b62fd15a9f28594e8210</string>-->
+    <string name="App_Sign">495b6bf3a707e796ee52b6d5c2f8f0257185638e06e9034ee6b51349284fd716</string>
+    <string name="VCchannel_name">HearSightChannel</string>
+    <string name="new_zego_signin_code">d6085c0fb41ef49f045dc6c0c782e01d0ffcba7b0e83ffd614087e3f197838fc</string>
+<!--    <string name="new_zego_sign_app_id_no">67710674</string>-->
+    <string name="new_zego_sign_app_id_no">1430776311</string>
+    <string name="tesseract_filepath">/data/user/0/com.example.hearsight/files</string>
+
+    <string-array name="languages">
+        <item>eng</item>
+        <item>tam</item>
+        <item>hin</item>
+        <item>mal</item>
+    </string-array>
+</resources>

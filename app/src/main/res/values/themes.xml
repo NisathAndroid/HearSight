@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.HearSight" parent="Theme.AppCompat.Light.NoActionBar">
+         <item name="colorPrimary">@color/my_dark_primary</item>
+    </style>
+    <style name="Theme.HearSight" parent="Base.Theme.HearSight" />
+</resources>

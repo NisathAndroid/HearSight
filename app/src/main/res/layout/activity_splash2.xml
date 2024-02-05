@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/my_dark_primary"
+    android:orientation="vertical"
+    tools:context=".Activity.SplashActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome to "
+        android:id="@+id/textview"
+        android:layout_marginLeft="@dimen/_15sdp"
+        android:layout_above="@+id/splash_logo"
+        android:textSize="@dimen/_30sdp"
+        android:textColor="@color/white"/>
+
+    <ImageView
+
+        android:id="@+id/splash_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_110sdp"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical"
+        android:src="@drawable/advantechtxt" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Audio Vision"
+        android:id="@+id/audio_vision"
+        android:layout_below="@+id/splash_logo"
+        android:textSize="@dimen/_30sdp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"/>
+</RelativeLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="File name"
+        android:textSize="@dimen/_16sdp"
+        android:textStyle="bold"
+        android:textColor="#FFD700"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_50sdp"
+        android:id="@+id/file_name"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_250sdp"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/adyelow"/>
+    <SeekBar
+        android:layout_marginTop="@dimen/_15sdp"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_20sdp"
+        android:id="@+id/seekBar"/>
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/_8sdp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal">
+        <Button
+            android:layout_margin="@dimen/_3sdp"
+            android:layout_width="110dp"
+            android:layout_height="50dp"
+            android:id="@+id/previous_btn"
+            android:textAllCaps="false"
+            android:text="Previous"
+            android:textStyle="bold"
+            android:backgroundTint="#FFD700"
+            android:textColor="@color/my_dark_primary"/>
+
+        <Button
+            android:layout_margin="@dimen/_3sdp"
+            android:layout_width="110dp"
+            android:layout_height="50dp"
+            android:textAllCaps="false"
+            android:id="@+id/Play_btn"
+            android:text="Play"
+            android:textStyle="bold"
+            android:backgroundTint="#FFD700"
+            android:textColor="@color/my_dark_primary"/>
+
+        <Button
+            android:layout_margin="@dimen/_3sdp"
+            android:layout_width="110dp"
+            android:layout_height="50dp"
+            android:id="@+id/next_btn"
+            android:text="Next"
+            android:textStyle="bold"
+            android:backgroundTint="#FFD700"
+            android:textColor="@color/my_dark_primary"/>
+
+    </LinearLayout>
+</LinearLayout>
