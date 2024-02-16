@@ -13,10 +13,10 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.cardview.widget.CardView
 import androidx.core.widget.doOnTextChanged
-import com.example.hearsight.DataModel.BottomSheetview
-import com.example.hearsight.DataModel.SaveFileNameDialog
-import com.example.hearsight.DataModel.SaveFiles
-import com.example.hearsight.DataModel.TextExtract
+import com.example.hearsight.Model.BottomSheetview
+import com.example.hearsight.Model.SaveFileNameDialog
+import com.example.hearsight.Model.SaveFiles
+import com.example.hearsight.Model.TextExtract
 import com.example.hearsight.R
 import com.example.txtextrct.Assets
 import com.example.txtextrct.Config

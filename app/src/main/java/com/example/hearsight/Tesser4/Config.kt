@@ -1,6 +1,5 @@
 package com.example.txtextrct
 
-import com.example.hearsight.DataModel.SharedPreferenceBase
 import com.googlecode.tesseract.android.TessBaseAPI
 
 object Config {

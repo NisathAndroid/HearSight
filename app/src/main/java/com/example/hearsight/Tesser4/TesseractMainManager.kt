@@ -5,8 +5,6 @@ import android.app.ProgressDialog
 import android.content.ContentValues.TAG
 import android.content.Context
 import android.util.Log
-import android.widget.Toast
-import com.example.hearsight.DataModel.ResultTextPreProcessing
 import com.example.hearsight.R
 import com.googlecode.tesseract.android.TessBaseAPI
 import java.io.File

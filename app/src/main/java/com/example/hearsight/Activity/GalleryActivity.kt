@@ -6,7 +6,6 @@ import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.net.Uri
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import android.widget.Button
 import android.widget.EditText
@@ -16,12 +15,12 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.cardview.widget.CardView
 import androidx.core.widget.doOnTextChanged
-import com.example.hearsight.DataModel.BottomSheetview
-import com.example.hearsight.DataModel.ProgressDialogCls
-import com.example.hearsight.DataModel.SaveFileNameDialog
-import com.example.hearsight.DataModel.SaveFiles
-import com.example.hearsight.DataModel.SharedPreferenceBase
-import com.example.hearsight.DataModel.TextExtract
+import com.example.hearsight.Model.BottomSheetview
+import com.example.hearsight.Model.ProgressDialogCls
+import com.example.hearsight.Model.SaveFileNameDialog
+import com.example.hearsight.Model.SaveFiles
+import com.example.hearsight.Model.SharedPreferenceBase
+import com.example.hearsight.Model.TextExtract
 import com.example.hearsight.R
 import com.example.txtextrct.Assets
 import com.example.txtextrct.Config

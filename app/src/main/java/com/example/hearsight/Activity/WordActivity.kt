@@ -5,15 +5,14 @@ import android.annotation.SuppressLint
 import android.net.Uri
 import android.os.Bundle
 import android.util.Log
-import android.view.View
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.hearsight.DataModel.ResultTextPreProcessing
-import com.example.hearsight.DataModel.SaveFiles
-import com.example.hearsight.DataModel.SharedPreferenceBase
-import com.example.hearsight.DataModel.TextExtract
+import com.example.hearsight.Model.ResultTextPreProcessing
+import com.example.hearsight.Model.SaveFiles
+import com.example.hearsight.Model.SharedPreferenceBase
+import com.example.hearsight.Model.TextExtract
 import com.example.hearsight.R
 
 class WordActivity : AppCompatActivity(),TextToSpeechHelper.OnInitListener {

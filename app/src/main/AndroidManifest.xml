@@ -69,14 +69,14 @@
             android:exported="false"/>
 
         <activity
-            android:name=".DataModel.ExistingFilesOpen"
+            android:name=".Model.ExistingFilesOpen"
             android:exported="false" />
 
         <activity
-            android:name=".DataModel.PlayShare"
+            android:name=".Model.PlayShare"
             android:exported="false" />
 
-        <service android:name=".DataModel.TextExtractionBackgroundTask" />
+        <service android:name=".Model.TextExtractionBackgroundTask" />
 
         <provider
             android:name="androidx.core.content.FileProvider"

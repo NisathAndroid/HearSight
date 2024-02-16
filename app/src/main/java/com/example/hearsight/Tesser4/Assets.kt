@@ -6,7 +6,7 @@ import android.content.res.AssetManager
 import android.graphics.Bitmap
 import android.os.Environment
 import android.widget.Toast
-import com.example.hearsight.DataModel.DownloadTrainedDataTask
+import com.example.hearsight.Model.DownloadTrainedDataTask
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

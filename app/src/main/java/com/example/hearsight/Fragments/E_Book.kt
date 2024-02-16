@@ -17,10 +17,10 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.cardview.widget.CardView
 import androidx.core.widget.doOnTextChanged
-import com.example.hearsight.DataModel.PdftoBitmap
-import com.example.hearsight.DataModel.SaveFileNameDialog
-import com.example.hearsight.DataModel.SaveFiles
-import com.example.hearsight.DataModel.TextExtract
+import com.example.hearsight.Model.PdftoBitmap
+import com.example.hearsight.Model.SaveFileNameDialog
+import com.example.hearsight.Model.SaveFiles
+import com.example.hearsight.Model.TextExtract
 import com.example.hearsight.R
 import com.example.txtextrct.Assets
 import com.example.txtextrct.Config
